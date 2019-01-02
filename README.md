@@ -5,7 +5,7 @@
 Secret messages are RAD! See if you can decode this message below, where each letter actually represents a different letter. The hint you'll get is that M's are actually meant to be L's.
 
 <details>
-  <summary>click for solution <br> Encoded: Ifmmp Xpsme  <br>  Decoded:  _ _ L L _   _ _ _ L _ </summary><br>
+  <summary>click for solution <br> Encoded: Ifmmp Xpsme  <br>  Decoded:  _ _ L L _ &nbsp;&nbsp; _ _ _ L _ </summary><br>
 
 
   Each letter has been encoded by moving just one further down the alphabet than the original letter. Since L changed to M by going one further down, we can undo the message by going one letter backwards up the alphabet.
