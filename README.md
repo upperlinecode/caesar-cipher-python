@@ -33,13 +33,13 @@ Try writing lines of code to test your file in the testcipher.py file:
 ###### Code to test your encode method.
 
 ```python
-print(cipher.encode("Ruby is fun", 8)) # => prints out the string "Zcjg qa ncv"
+print(cipher.encode("Python is fun", 8)) # => prints out the string "Xgbpwv qa ncv"
 ```
 
 ###### Code to test your decode method.
 
 ```python
-print(cipher.decode("Zcjg qa ncv", 8)) # => prints out the string "Ruby is fun"
+print(cipher.decode("Xgbpwv qa ncv", 8)) # => prints out the string "Python is fun"
 ```
 
 ## Push Yourself!
