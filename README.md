@@ -1,5 +1,7 @@
 # Caesar Cipher
 
+[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/caesar-cipher-python)](https://repl.it/github/upperlinecode/caesar-cipher-python)
+
 ## Warm-up
 
 Secret messages are RAD! See if you can decode this message below, where each letter actually represents a different letter. The hint you'll get is that M's are actually meant to be L's.
